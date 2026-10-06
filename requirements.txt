@@ -1,0 +1,13 @@
+ultralytics
+opencv-python
+albumentations
+scikit-learn
+pandas
+xgboost
+ortools
+fastapi
+uvicorn
+python-multipart
+streamlit
+folium
+streamlit-folium
